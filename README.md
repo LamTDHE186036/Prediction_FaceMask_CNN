@@ -1,7 +1,7 @@
 # Prediction_FaceMask_CNN
 
 ---
-
+Bài toán phân loại người trong hình ảnh có đeo khẩu trang hay không
 ## Data
 
 Tập dữ liệu được sử dụng nằm trên Kaggle. Do kích thước lớn của dữ liệu, **việc huấn luyện cần được thực hiện trên [Kaggle Notebooks](https://www.kaggle.com/code)** để tránh giới hạn dung lượng tải về.
